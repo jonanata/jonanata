@@ -5,14 +5,31 @@ I specialize in building production-grade solutions that bridge the gap between 
 
 ---
 
-### 🚀 Core Expertise
+### 🚀 Core Expertise & Leadership
 
-*   **🤖 AI & ML Development:** Building end-to-end MLOps pipelines and Agentic workflows.
-*   **🏦 FinTech Analytics:** Specialized in credit scoring extensions and portfolio risk modeling.
-*   **🌐 IoT Orchestration:** Designing multi-protocol bridges (Zigbee/BLE) for smart automation.
-*   **🛠️ Full-Stack Engineering:** High-performance backends (Go/FastAPI/Node) paired with modern UIs (React).
+*   **🏆 20+ Years Technical Leadership:** Veteran Project Manager and Full-Stack Architect. Proven track record leading diverse teams ranging from lean 20-person startup squads to 200+ member MNC IT departments.
+*   **🦄 Startup Builder (Pre-Seed to Series B):** Expert at building products and engineering teams from the ground up. Instrumental in fundraising and scaling ventures like **Notey** and **Boxful**. 
+*   **💼 Venture Strategy:** Collaborated with venture builders (e.g., Flatiron) to drive growth. Skilled in Lean Canvas methodology, problem interviewing, and data-driven business decision-making.
+*   **🤖 AI & ML Engineering:** Developing Gen-AI RAG applications and end-to-end MLOps pipelines to scale modern AI product offerings.
+*   **🏦 FinTech & Analytics:** Deep experience in credit scoring frameworks (Folio Score) and predictive portfolio risk modeling.
+*   **🌐 IoT Orchestration:** Architecting multi-protocol bridges (Zigbee/BLE) for industrial and smart-home automation.
+*   **📊 IT Governance:** Managing cross-departmental operations, enforcing IT security policies, and optimizing multi-million dollar IT budgets.
+*   **🗣️ Trilingual:** Fluent in **English**, **Cantonese**, and **Mandarin**.
+
+### 🛡️ Verified Certifications  
+*   **Credly:** [Verified Badges](https://credly.com/users/yat-sing-wong)  
 
 ---
+
+### 🤝 Let's Build Something Together
+
+I’m always open to discussing new ventures, technical architecture, or startup scaling. Whether you're looking for a consultant or a potential co-founder, let's connect:
+
+*   **💼 LinkedIn:** [Professional Profile & Network](https://www.linkedin.com/in/jonanata/) — *Let’s connect and share insights.*
+*   **✍️ Blog:** [Behind the Build](https://blog.jonanata.com/) — *Thoughts on engineering, leadership, and the startup journey.*
+*   **📅 Consultation:** [Book A Meeting](https://calendly.com/jonathan78wong) — *Schedule a 1:1 to discuss your project or technical strategy.*
+
+---  
 
 ### 🌟 Featured Portfolio
 
@@ -43,15 +60,10 @@ I specialize in building production-grade solutions that bridge the gap between 
 
 *   **Consulting:** [JonaNata Limited](https://jonanata.com/)
 *   **Iot:** [Smart Home](https://intelofcare.com/)  
-*   **LinkedIn:** [Jonathan Wong](https://www.linkedin.com/in/jonanata/)
-*   **Blog:** [Behind the Build](https://blog.jonanata.com/)
-*   **Credly:** [Verified Badges](https://credly.com/users/yat-sing-wong)
 *   **AWS Builder Center:** [AWS Paths](https://builder.aws.com/community/@jonanata)
 *   **Dev.io:** [Dev Hub](https://dev.to/jonathan78wong)
 *   **Medium:** [My Publication](https://medium.com/@jonathan78wong)  
 *   **Email:** [jonathan78wong@gmail.com](mailto:jonathan78wong@gmail.com)
-*   **Book:** [Book A Meeting](https://calendly.com/jonathan78wong)  
 *   **Status:** 🌍 Remote OK | 🤝 Open to Co-founder opportunities
 
----
-*“Turning spurious correlations into serious solutions.”*
+
