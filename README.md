@@ -50,6 +50,7 @@ I specialize in building production-grade solutions that bridge the gap between 
 *   **Dev.io:** [Dev Hub](https://dev.to/jonathan78wong)
 *   **Medium:** [My Publication](https://medium.com/@jonathan78wong)  
 *   **Email:** [jonathan78wong@gmail.com](mailto:jonathan78wong@gmail.com)
+*   **Book:** [Book A Meeting](https://calendly.com/jonathan78wong)  
 *   **Status:** 🌍 Remote OK | 🤝 Open to Co-founder opportunities
 
 ---
