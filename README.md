@@ -26,7 +26,7 @@ I specialize in building production-grade solutions that bridge the gap between 
 I’m always open to discussing new ventures, technical architecture, or startup scaling. Whether you're looking for a consultant or a potential co-founder, let's connect:
 
 *   **💼 LinkedIn:** [Professional Profile & Network](https://www.linkedin.com/in/jonanata/) — *Let’s connect and share insights.*
-*   **✍️ Blog:** [Behind the Build](https://blog.jonanata.com/) — *Thoughts on engineering, leadership, and the startup journey.*
+*   **✍️ Blog:** [Behind the Build](https://blog.jonanata.com/) — *Deep-dive case studies, technical strategy, and engineering leadership beyond the source code.*
 *   **📅 Consultation:** [Book A Meeting](https://calendly.com/jonathan78wong) — *Schedule a 1:1 to discuss your project or technical strategy.*
 
 ---  
