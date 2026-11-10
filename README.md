@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Jonathan Wong
-**Founder @ JonaNata Limited | IT Consultant & Full-Stack Architect**
+**Founder@JonaNata | Startups & MNC | Technical Lead | Cloud Architect | AI/ML Lead | Full-stack Engineert**
 
-I specialize in building production-grade solutions that bridge the gap between **Complex Data Science** and **Scalable Software Engineering**. As a consultant for startups and MNCs, I focus on creating high-impact automation and predictive systems.
+I’m Jonathan Wong — founder, consultant, and builder at the intersection of AI, cloud architecture, and practical business transformation. For more than two decades, I’ve led teams across Hong Kong and Canada, helping organizations turn complex technical challenges into clear, scalable solutions.  
 
 ---
 
