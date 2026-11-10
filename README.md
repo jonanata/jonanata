@@ -61,9 +61,9 @@ I’m always open to discussing new ventures, technical architecture, or startup
 
 *   **Consulting:** [JonaNata Limited](https://jonanata.com/)
 *   **Iot:** [Smart Home](https://intelofcare.com/)  
-*   **AWS Builder Center:** [AWS Paths](https://builder.aws.com/community/@jonanata)
-*   **Dev.io:** [Dev Hub](https://dev.to/jonathan78wong)
-*   **Medium:** [My Publication](https://medium.com/@jonathan78wong)  
+*   **AWS Builder Center:** [jonanata](https://builder.aws.com/community/@jonanata)
+*   **Dev.io:** [jonathan78wong](https://dev.to/jonathan78wong)
+*   **Medium:** [jonathan78wong](https://medium.com/@jonathan78wong)  
 *   **Email:** [jonathan78wong@gmail.com](mailto:jonathan78wong@gmail.com)
 *   **Status:** 🌍 Remote OK | 🤝 Open to Co-founder opportunities
 
