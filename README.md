@@ -36,8 +36,9 @@ I’m always open to discussing new ventures, technical architecture, or startup
 
 | Project | Domain | Tech Stack |
 | :--- | :--- | :--- |
-| [**Folio-Score-Refinance-Predictor**](https://github.com/jonanata/folio-score-refinance-predictor) | **FinTech** | Python, Predictive Modeling |
+| [Bedrock-AgentCore-Support-Agent](https://github.com/jonanata/ai-support-agent) | **Cloud AI / Agents** | Python, AWS Bedrock, AgentCore, MCP, Strands SDK |
 | [**Vancouver-Traffic-Risk-Predictor-MLops**](https://github.com/jonanata/vancouver-traffic-risk-predictor-mlops) | **AI/MLOps** | FastAPI, Docker, Scikit-Learn |
+| [**Folio-Score-Refinance-Predictor**](https://github.com/jonanata/folio-score-refinance-predictor) | **FinTech** | Python, Predictive Modeling |
 | [**Resume-Tailor**](https://github.com/jonanata/resume-talior) | **Automation** | React, FastAPI, LLM Integration |
 | [**Iot-Gateway-Spring-Boot**](https://github.com/jonanata/iot-gateway-spring-boot) | **IoT** | Java, Spring Boot, Zigbee/BLE |
 | [**Mars-Oil-Timeseries-GO**](https://github.com/jonanata/mars-oil-timeseries-go) | **Data Eng** | Golang, Time-Series Analysis |
