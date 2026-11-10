@@ -61,6 +61,7 @@ I’m always open to discussing new ventures, technical architecture, or startup
 
 *   **Consulting:** [JonaNata Limited](https://jonanata.com/)
 *   **Iot:** [Smart Home](https://intelofcare.com/)  
+*   **LinkedIn:** [Jonanata](https://www.linkedin.com/in/jonanata/)
 *   **AWS Builder Center:** [jonanata](https://builder.aws.com/community/@jonanata)
 *   **Dev.io:** [jonathan78wong](https://dev.to/jonathan78wong)
 *   **Medium:** [jonathan78wong](https://medium.com/@jonathan78wong)  
