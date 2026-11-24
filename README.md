@@ -36,8 +36,7 @@ I’m always open to discussing new ventures, technical architecture, or startup
 
 | Project | Domain | Tech Stack |
 | :--- | :--- | :--- |
-| [Bedrock-AgentCore-Multi-Agent-Support-System](https://github.com/jonanata/ai-multi-agent) | **Cloud AI / Agents** | Python, AWS Bedrock, AgentCore, 
-Multi Agent Orchestrator, Strands SDK |
+| [Bedrock-AgentCore-Multi-Agent-Support-System](https://github.com/jonanata/ai-multi-agent) | **Cloud AI / Agents** | Python, AWS Bedrock, AgentCore, Multi Agent Orchestrator, Strands SDK |
 | [Bedrock-AgentCore-Support-Agent](https://github.com/jonanata/ai-support-agent) | **Cloud AI / Agents** | Python, AWS Bedrock, AgentCore, MCP, Strands SDK |
 | [**Vancouver-Traffic-Risk-Predictor-MLops**](https://github.com/jonanata/vancouver-traffic-risk-predictor-mlops) | **AI/MLOps** | FastAPI, Docker, Scikit-Learn |
 | [**Folio-Score-Refinance-Predictor**](https://github.com/jonanata/folio-score-refinance-predictor) | **FinTech** | Python, Predictive Modeling |
